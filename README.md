@@ -14,7 +14,7 @@
 ### 3. <a href='https://solarhosting.cc/' target="_blank"><img alt='Panel Link' src='https://img.shields.io/badge/-DEPLOYER%20SUR%20PANEL-pink?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
 ## 4. <a href='https://dashboard.render.com/template=https://github.com/BarryAllen100/BARRY-WEB' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOYER SUR RENDER-black?style=for-the-badge&logo=render&logoColor=white'/>
 ##  vous rendre sur la chaîne 
-[Youtube](https://www.youtube.com/@SSK-FAMILYCAMPAGNY)]
+[Youtube](https://www.youtube.com/@SSK-FAMILYCAMPAGNY)
 
 
 </br>
