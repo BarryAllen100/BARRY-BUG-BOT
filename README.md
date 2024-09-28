@@ -10,7 +10,7 @@
 ### Si vous souhaitez déployer ailleurs, téléchargez votre creds.json dans le dossier de session après avoir obtenu le code de paire sur replit.
 
 ### 1. <a href="https://github.com/BarryAllen100/BARRY-BUG-BOT/fork"><img title="WEB" src="https://img.shields.io/badge/FORK BARRY-WEB?color=black&style=for-the-badge&logo=stackshare"></a>
-### 2. <a href=".... bientôt disponible "><img src="https://img.shields.io/badge/PAIR_CODE-green" alt="Clique ici pour avoir le Pair-Code" width="90"></a>
+### 2. <a href="https://barry-web-rroi.onrender.com"><img src="https://img.shields.io/badge/PAIR_CODE-green" alt="Clique ici pour avoir le Pair-Code" width="90"></a>
 ### 3. <a href='https://solarhosting.cc/' target="_blank"><img alt='Panel Link' src='https://img.shields.io/badge/-DEPLOYER%20SUR%20PANEL-pink?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
 ## 4. <a href='https://dashboard.render.com/template=https://github.com/BarryAllen100/BARRY-WEB' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOYER SUR RENDER-black?style=for-the-badge&logo=render&logoColor=white'/>
 ##  vous rendre sur la chaîne 
